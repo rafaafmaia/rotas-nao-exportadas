@@ -10,6 +10,17 @@ Em desenvolvimento.
 
 O objetivo principal deste projeto de análise de dados é identificar as rotas de auditoria de entrega de soja em PDR que não foram exportadas para o projeto Harvest 2025. Uma vez que essas rotas forem identificadas, a próxima etapa consiste em descobrir as datas liberadas para que a equipe de validação possa realizar a análise detalhada dessas auditorias e, posteriormente, gerar os relatórios necessários para os stakeholders.
 
+## 📑 Tabela de Conteúdos
+
+- [Descrição](#-descrição)
+- [Status do Projeto](#-status-do-projeto)
+- [Tecnologias e Bibliotecas](#-tecnologias-e-bibliotecas)
+- [Como Usar](#-como-usar)
+- [Exemplos](#-exemplos)
+- [Contribuições](#-contribuições)
+- [Licença](#-licença)
+- [Autor](#-autor)
+
 ## 🛠 Tecnologias e Bibliotecas:
 
 - Python 3.12.10
